@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amazon-clone-react/static/css/main.db9ba967.css",
+    "main.js": "/amazon-clone-react/static/js/main.3a26faa9.js",
+    "static/js/787.ebd7646a.chunk.js": "/amazon-clone-react/static/js/787.ebd7646a.chunk.js",
+    "static/media/wechat.png": "/amazon-clone-react/static/media/wechat.fcfb2799359adaeeba15.png",
+    "static/media/slick.svg": "/amazon-clone-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/amazon-clone-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/amazon-clone-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/amazon-clone-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/amazon-clone-react/index.html",
+    "main.db9ba967.css.map": "/amazon-clone-react/static/css/main.db9ba967.css.map",
+    "main.3a26faa9.js.map": "/amazon-clone-react/static/js/main.3a26faa9.js.map",
+    "787.ebd7646a.chunk.js.map": "/amazon-clone-react/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9ba967.css",
+    "static/js/main.3a26faa9.js"
+  ]
+}
