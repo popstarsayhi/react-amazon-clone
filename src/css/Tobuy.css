@@ -1,0 +1,50 @@
+.tobuy_row{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px auto;
+    /* background: #fff; */
+}
+
+.tobuy{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    width: 100%;
+    margin: 15px;
+    background: #fff;
+}
+
+.tobuy>img{
+    max-height: 200px;
+    width: 100%;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+
+.tobuy_price{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.tobuy_rating{
+    display: flex;
+}
+
+.tobuy_info{
+    width: 90%;
+    margin: 15px;
+    margin-left: 35px;
+    display: inline-block;
+}
+
+.tobuy > button{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    margin-bottom: 15px;
+    cursor: pointer;
+}

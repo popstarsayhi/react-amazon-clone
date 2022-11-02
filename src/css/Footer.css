@@ -1,0 +1,36 @@
+.footer_signin{
+    width: 98%;
+    height: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 2px solid rgb(216, 213, 213);
+    border-bottom: 2px solid rgb(196, 194, 194);
+}
+
+.footer_signin > p{
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+
+.footer_signin_siginButton {
+    background-color: #f0c14b;
+    border-radius: 3px;
+    width: 200px;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    cursor: pointer;
+}
+
+.footer_signin > span{
+    font-size: 12px;
+    margin-top: 10px;
+}
+
