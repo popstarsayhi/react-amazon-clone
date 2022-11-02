@@ -14,7 +14,7 @@
 
 
 ### Run locally 
-* Run this command git clone https://github.com/popstarsayhi/Amazon-React-Clone.git
+* Run this command git clone https://github.com/popstarsayhi/amazon-clone-react.git
 
 ### Tech Stak
 * React.js
